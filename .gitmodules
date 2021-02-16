@@ -1,0 +1,6 @@
+[submodule "sqlfiddle-api"]
+	path = sqlfiddle-api
+	url = https://github.com/akki-io/sqlfiddle-api.git
+[submodule "sqlfiddle-tools-sql-split"]
+	path = sqlfiddle-tools-sql-split
+	url = https://github.com/akki-io/sqlfiddle-tools-sql-split.git
